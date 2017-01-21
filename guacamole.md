@@ -1,2 +1,7 @@
-#
-Ingredient
+#Ingredient
+
+-avocado
+-lemon 
+-salt
+
+#Instructions
